@@ -8,6 +8,6 @@ if __name__ == '__main__':
             message = 'The National Academies of Sciences, Engineering, and Medicine determined that an adequate daily fluid intake is: '
                       'About 15.5 cups (3.7 liters) of fluids for men. About 11.5 cups (2.7 liters) of fluids a day for women.',
             app_icon = r'C:\Users\User\Desktop\CodePlaygroung\PROJECTS\Python Projects\Water-Drinking-Notification\water-glass.ico',
-            timeout = 10
+            timeout = 12
         )
         time.sleep(60*60)
